@@ -9,3 +9,4 @@ I built the software and the pcb from scratch. I'll upload the pcb diagrams as s
 ![hardware](doc/board.jpg)
 
 Sample of the game finished melody: http://www.youtube.com/watch?v=AD7XjPF0V5o
+
